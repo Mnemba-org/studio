@@ -1,9 +1,11 @@
+MYSTUDIO — CLICK TO SHOW CONTROLS
+
+Click yourself or an object in the preview to show the editing controls. Click an empty area in the scene to hide them. Drag the corner to resize, and drag the top handle to rotate. The controls do not appear in recorded video.
+
 MYSTUDIO — DIRECT CONTROLS
 
 WHAT IT DOES
 The camera cutout is smoothed over time to reduce flickering or waves in the virtual background. Keep more of me starts at zero. Raise it slowly if ears or hair disappear; too much can bring the room back into view. Use bright, even light and avoid backgrounds close to your clothing or skin tone. Quick movement can cause a short trail.
-
-Click Hide controls at the bottom right of the preview to hide the selection frame and handles. Click Show controls to edit again. The handles and Hide controls button are not included in the app's recorded video. OBS window capture can show interface elements; crop or hide them as needed.
 
 Click an object or yourself in the preview. Drag inside the selection to move, drag its bottom-right purple handle to resize, and drag the purple handle above it to rotate. The selection handles are an overlay and are not included in recorded videos. To select yourself beneath an object, click Move my image. The frame around your image is a control guide, not an exact outline of your body.
 
