@@ -1,3 +1,6 @@
+PHONE USE
+Open the HTTPS site in an up-to-date mobile browser and allow camera and microphone access. The preview stays at the top while the settings panel scrolls below. Tap yourself or an object, then drag the handles to resize or rotate. Recording format depends on your browser; try a short recording with sound first. OBS instructions apply to a computer.
+
 MYSTUDIO — CLICK TO SHOW CONTROLS
 
 Click yourself or an object in the preview to show the editing controls. Click an empty area in the scene to hide them. Drag the corner to resize, and drag the top handle to rotate. The controls do not appear in recorded video.
